@@ -54,9 +54,14 @@ command-line-game
 learning-project
 
 input-validation
+
 game-development
+
 mini-project
+
 basic-python
+
 fun-project
+
 console-game
 
