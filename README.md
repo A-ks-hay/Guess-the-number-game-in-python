@@ -27,3 +27,24 @@ The player can also quit the game anytime by typing **Q**.
 3. Try to guess the hidden number.
 4. Enter **Q** if you want to quit the game.
 
+---
+
+python
+python-beginner
+python-project
+beginner-friendly
+guessing-game
+number-game
+logic-building
+simple-python-project
+interactive-game
+terminal-game
+command-line-game
+learning-project
+input-validation
+game-development
+mini-project
+basic-python
+fun-project
+console-game
+
